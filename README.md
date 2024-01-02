@@ -1,2 +1,2 @@
-# discord-custom-link-embed
-tool where when you paste the link of the website to discord it makes an custom embed
+# Welcome to discord-custom-link-embed!
+This was made for people to create custom embeds for links.
